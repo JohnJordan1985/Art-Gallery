@@ -1,0 +1,62 @@
+
+body {
+	font-family: "Lato", sans-serif;
+	color: #747704;
+	font-weight: 300;
+}
+
+.container {
+
+	max-width: 45em;
+
+}
+
+hr {
+	background-color: #bcb;
+	height: 5px;
+}
+
+.intro {
+	padding: 1.5em;
+	background-color: #f8f8f8;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	padding-top: 0px;
+}
+
+.text-muted {
+	color: #bcb;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.title-super {
+	font-size: 60px;
+}
+
+.title-logo {
+	margin-top: 20px;
+	max-width: 100px;
+}
+
+.main-image {
+	width: 100%;
+	height: auto;
+	display: block;
+	margin: auto;
+}
+
+.work-image {
+	width: 100%;
+}
+
+.bordered {
+	border-right: 2px;
+}
+
+/*.row.intro{
+	margin-left: 10px;
+	margin-right: 10px;
+}*/
